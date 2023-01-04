@@ -37,7 +37,7 @@
 
 <br/><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guidofamula&show_icons=true&locale=en&layout=compact" alt="guidofamula" /></p>
 
-<br/><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guidofamula&show_icons=true&locale=en" alt="guidofamula" /></p>
+<br/><br/><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guidofamula&show_icons=true&locale=en" alt="guidofamula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guidofamula&" alt="guidofamula" /></p>
+<br/><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guidofamula&" alt="guidofamula" /></p>
 
