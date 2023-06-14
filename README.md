@@ -1,5 +1,3 @@
-<img align="center" title="Github Banner Guido" alt="banner github guidofamula" width="1000" src="https://media-exp1.licdn.com/dms/image/D5616AQFBROeKyb2cqg/profile-displaybackgroundimage-shrink_200_800/0/1670185340689?e=2147483647&v=beta&t=JBJpQQuflyGtT-sjgNNfPVhHAITDXinM36EcAG9YkLo" />
-
 <h1 align="center">Hi 👋, I'm Guido Famula</h1>
 <h3 align="center">A passionate web programmer from Indonesia</h3><br/>
 
