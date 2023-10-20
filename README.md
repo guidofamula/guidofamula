@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guidofamula&label=Profile%20views&color=0e75b6&style=flat" alt="guidofamula" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React TypeScript**
+- 🌱 I’m currently learning **Laravel, React TypeScript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guidofamula](https://github.com/guidofamula)
-
-- 📝 I regularly write articles on [https://guidofamula.com](https://guidofamula.com)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **guidofamula29@gmail.com**
 
